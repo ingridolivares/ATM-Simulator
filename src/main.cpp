@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    cout << "ATM simulator iniciando . . ." << endl;
+    return 0;
+}
