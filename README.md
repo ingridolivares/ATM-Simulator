@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ATM simulator (C++)
 ATM simulator developed in C++ as a learning project.
 
@@ -15,4 +16,3 @@ ATM simulator developed in C++ as a learning project.
 
 ## Project status
 In progress (Module 1)
-
